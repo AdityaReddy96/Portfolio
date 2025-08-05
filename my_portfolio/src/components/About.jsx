@@ -21,7 +21,7 @@ const About = () => {
             >
               <div className="w-64 h-64 rounded-full overflow-hidden border-4 border-indigo-500 dark:border-indigo-400 shadow-lg">
                 <img
-                  src="portfolio.jpg"
+                  src="https://res.cloudinary.com/dl8qjj3fi/image/upload/v1754403540/portfolio_fbiq5k.jpg"
                   alt="Aditya Reddy"
                   className="w-full h-full object-cover"
                 />
